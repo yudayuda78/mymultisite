@@ -61,7 +61,7 @@
         
     </section>
     <footer>
-        <p>&copy; 2025 MyMultiSite by Arief Yudha</p>
+        <p>&copy; 2025 MyMultiSite by Arief Yudhaa</p>
     </footer>
 </body>
 </html>
